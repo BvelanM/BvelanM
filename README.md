@@ -1,8 +1,8 @@
 👋 Hi, I’m @BvelanM.
 
-👀 I’m interested in Game Developing.
+👀 I’m interested in Game Developing and gaining how the heck GenAI does anything
 
-🌱 I’m currently learning C/C++ , Javascript , Python!
+🌱 I’m currently learning Cisco CCNA and Cybersecurity essentials
 
 📫 How to reach me ? balavelan29@gmail.com!
 
